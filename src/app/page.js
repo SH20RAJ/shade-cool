@@ -12,7 +12,7 @@ export default function Home() {
     },
     {
       title: "Article",
-      description: "Welcome to article.shade.cool, a free and open-source blogging platform where you can post your articles on various genres and publish them effortlessly. Our platform handles all the subsequent tas…",
+      description: "Welcome to article.shade.cool, a free and open-source blogging platform where you can post your articles on various genres and publish them effortlessly. Our platform handles all the subsequent tasks.",
       href: "https://article.shade.cool",
       icon: "/next.svg",
     },
